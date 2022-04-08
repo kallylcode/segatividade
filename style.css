@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    color: #fffb0b;
+    border: none;
+}
+
+
+a {
+    color: #fffb10;
+}
+
+body {
+    padding-top: 5vh;
+    background-image: url('../segatividade/bg.jpg');
+    background-size: cover;
+    background-position-y: -150px;
+}
+
+
+
+
+#maincontainer {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(183, 10, 252, 0.699);
+    border-radius: 10px;
+    padding: 50px;
+}
+
+#maincontainer h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 1.6rem;
+}
+
+
+.link {
+    background-color: #ab07f7;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.link {
+    display: block;
+    outline: none;
+    width: 100px;
+    margin-top: 10px;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    font-size: 15px;
+    text-align: center;
+}
